@@ -1,0 +1,2 @@
+hello node from text.txt
+more data or updated
